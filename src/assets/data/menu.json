@@ -1,0 +1,57 @@
+[
+  {
+    "nombre": "Action Sheet",
+    "icono": "american-football",
+    "ruta": "/action-sheet"
+  },
+  {
+    "nombre": "Alert",
+    "icono": "logo-apple-appstore",
+    "ruta": "/alert"
+  },
+  {
+    "nombre": "Grid y Buttons",
+    "icono": "grid",
+    "ruta": "/grid-buttons"
+  },
+  {
+    "nombre": "Avatar",
+    "icono": "beaker",
+    "ruta": "/avatar"
+  },
+  {
+    "nombre": "Cards",
+    "icono": "card",
+    "ruta": "/card"
+  },
+  {
+    "nombre": "Fab",
+    "icono": "car",
+    "ruta": "/fab"
+  },
+  {
+    "nombre": "Slides",
+    "icono": "albums",
+    "ruta": "/slides"
+  },
+  {
+    "nombre": "Infinite Scroll2",
+    "icono": "infinite-outline",
+    "ruta": "/infinite-scroll2"
+  },
+  {
+    "nombre": "Slides2",
+    "icono": "ellipsis-horizontal-outline",
+    "ruta": "/slides2"
+  },
+  {
+    "nombre": "Modal",
+    "icono": "phone-portrait",
+    "ruta": "/modal"
+  },
+  {
+    "nombre": "Tabs",
+    "icono": "cog",
+    "ruta": "/tabs"
+  }
+]

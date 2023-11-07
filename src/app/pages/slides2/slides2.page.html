@@ -1,0 +1,18 @@
+<app-header titulo="Slides 2"></app-header>
+
+
+<ion-content [fullscreen]="true">
+<swiper-container [slidesPerView] = "4.5"
+                  [separator]="10">
+  <swiper-slide (click)="swiperClick($event, element)" *ngFor="let element of ['Chivi1','Chivi2','Chivi3','Chivi4','Chivi5','Chivi6','Chivi7','Chivi8']">
+    <ion-avatar class="ion-avatar">
+      <ion-img src="/assets/icon/Png.png"></ion-img>
+    </ion-avatar>
+    <ion-label>
+      <p class="ion-text-center">{{element}}</p>
+    </ion-label>
+  </swiper-slide>
+
+</swiper-container>
+  <h2 class="ion-text-center">Pagina de Slides</h2>
+</ion-content>
